@@ -1,5 +1,5 @@
 @import 'styles/variables.scss';
-
+@import 'styles/main.scss';
 .app {
   margin: 80px auto $base-margin auto;
   padding: 0 2 * $base-padding 2 * $base-padding 2 * $base-padding;
@@ -7,3 +7,4 @@
   width: 960px;
   background-color: $white;
 }
+

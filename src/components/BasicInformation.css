@@ -1,0 +1,22 @@
+.line {
+  height: 5px;
+  width: 100%;
+  background-color: #ededed;
+}
+.img1 {
+  width: 10%;
+  border-radius: 50%;
+  position: absolute;
+  top: 5px;
+  left: 45%;
+}
+
+.greet {
+  padding-top: 100px;
+  text-align: center;
+}
+.introduction {
+  padding-top: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+}
